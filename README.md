@@ -1,6 +1,6 @@
 # General Coding Challenges
 
-This repo contains General Coding Challenges which are posted occasionally. It's recommended that members of the ESA community try their hands on. The challenges range from beginner to advanced but are not tagged with the level of diffculty. These challenges are meant to help learners improve their approach to problems. For some challenges, some programming languages will be recommended (But you're not limited to those languages).
+This repo contains General Coding Challenges which are posted occasionally. It's recommended that members of the ESA community try their hands on them. The challenges range from beginner to advanced but are not tagged with the level of difficulty. These challenges are meant to help learners improve their approach to solving problems. For some challenges, some programming languages will be recommended (But you're not limited to those languages).
 
 ## How To Join The Challenge
 
