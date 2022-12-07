@@ -10,6 +10,7 @@ This is how you solve a challenge
 - Clone the repository
 - Create a branch with your github username (eg. if my github username is _john_doe_ my branch name will be _john_doe_)
 - Switch to that branch and make sure all your solutions are written in your branch. (Pushes made to `master` or `main` branch will be rejected)
+- Work on each challenge in their designated folder
 - Commit and push your branch to GitHub.
 
 Thats it 🎊🎉. You have successfully solved and submitted your solution.
